@@ -1,4 +1,6 @@
-Apresento com orgulho o documento de Analise de risco que tive o prazer de colaborar. 
+Apresento com orgulho o documento que tive o prazer de colaborar com finalidade acadêmica.
+
+Analise de risco e continuidade de negocio / Plano de Continuidade de Negócio – PCN. 
 
 O que é Analise de risco? 
 a análise de risco é o processo de identificação e avaliação de possíveis problemas que podem impactar negativamente o negócio. Seu principal objetivo é ajudar as organizações a evitar ou mitigar os riscos. É o processo no qual se avalia a real probabilidade de acontecer um cenário socioeconômico adverso aos objetivos da empresa, que possam significar verdadeiras ameaças.
