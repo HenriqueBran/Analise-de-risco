@@ -18,5 +18,14 @@ Avaliação dos erros para evitar que eles aconteçam novamente.
 
 Neste documento também será possivel ver a matriz de risco criada para avaliar a probabilidade de um evento acontecer e quais seriam os impactos (consequências).
 
+Na matriz, um risco é considerado por dois critérios: sua probabilidade de acontecer e o impacto que trará para empresa. Ao avaliar um risco que é uma ameaça, determinamos o nível de probabilidade e o impacto e assim como num jogo de batalha naval, a matriz utilizará as linhas e colunas para determinar a criticidade do risco, que pode ser Baixa, Média ou Muito Alta, sendo:
+
+Verde para Baixa;
+Amarelo para Média;
+Vermelho para Muito Alta.
+
+![image](https://github.com/HenriqueBran/Analise-de-risco-/assets/114500097/92764b39-3790-4b0a-a7fc-02b074fa58a6)
+
+
 
 
